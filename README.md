@@ -1,17 +1,13 @@
 # music_player
 
-A new Flutter project.
+Welcome to the Flutter Music Player GitHub repository! This repository houses a minimalist yet feature-rich music player app built using Flutter. The app boasts an intuitive interface with a neumorphic design and a few functional buttons such as the play button and info button.
+
+Beyond its music-playing capabilities, the app introduces a unique “Artist Info” section, where users can delve deeper into the lives of their favorite artists. When a song is in play, users can seamlessly access this section, revealing a captivating GIF and a sliver of information about the current artist. 
+
+This is a short project which will be continually built upon to add more features such as music seeker selection, skip forward and backward, and the entire album songs as a playlist.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # MusicPlayer
